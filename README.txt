@@ -13,3 +13,4 @@ Exemplo:buscarcepbinaria 21042000
 O cep é localizado no arquivo de cep com o nome cep_ordenado.dat com o formado de linha abaixo.
 RUA ARI RODRIGUES                                                       ABRAHÃO ALAB                                                            RIO BRANCO                                                              ACRE                                                                    AC69907190 
 
+https://github.com/Joaojbs/Organiza-o-de-Estrutura-de-Arquivos.git
